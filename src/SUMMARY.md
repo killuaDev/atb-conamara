@@ -18,7 +18,7 @@
 - [Compound Prepositions](./simple_prepositions.md)
 - [Question Words](./question_words.md)
 - [Regular Verbs](./regular_verbs.md)
-- [Irregular Verbs]()
+- [Irregular Verbs](./irregular_verbs.md)
 - [The Copula]()
 - [Compound Tenses]()
 - [Vocabulary]()
