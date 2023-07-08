@@ -33,12 +33,12 @@ Sometimes *nach b'é, nach b'iad* etc. is said.
 
 ## 15.8 Past Negative
 *níor* /N´i:r/ *níor cheart é a dhéanamh.*  
-*níorbh* before a vowel: *níorbh é (níor bh'é), níorbh fhiú, nníorbh ionann.*  
+*níorbh* before a vowel: *níorbh é (níor bh'é), níorbh fhiú, níorbh ionann.*  
 Instead of *níor*, often *ní ba* or *ní mba* is said: *na mba drochfear é*.
 
 ## 15.9 Past Question
 *ar* /ər/: *ar mhiste leat fanacht.*  
-*arbh* /ərv´/ before vowels: *arbh é (ar bh'é)*. The primary form is what's used most: *ab é.*
+*arbh* /ərv´/ before vowels: *arbh é (ar bh'é)*. The present form is what's used most: *ab é.*
 
 ## 15.10 Past with *go*
 *go mba: creidim go mba cheart*. Sometimes *gur* (+ lenition): *creidim gur cheart*.
