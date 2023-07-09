@@ -20,7 +20,7 @@
 - [Regular Verbs](./regular_verbs.md)
 - [Irregular Verbs](./irregular_verbs.md)
 - [The Copula](./the_copula.md)
-- [Compound Tenses]()
+- [Compound Tenses](./compound_tenses.md)
 - [Vocabulary]()
 
 [Glossary]()
