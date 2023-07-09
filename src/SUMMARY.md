@@ -21,7 +21,7 @@
 - [Irregular Verbs](./irregular_verbs.md)
 - [The Copula](./the_copula.md)
 - [Compound Tenses](./compound_tenses.md)
-- [Vocabulary]()
+- [Vocabulary](./vocabulary.md)
 
 [Glossary]()
 [Appendix A: Verb tables]()
