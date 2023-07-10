@@ -23,7 +23,7 @@
 - [Compound Tenses](./compound_tenses.md)
 - [Vocabulary](./vocabulary.md)
 
-[Glossary]()
+[Mini-Dictionary](./mini_dictionary.md)
 [Appendix A: Verb tables]()
 [Appendix B: Aran Irish]()
 [References]()
