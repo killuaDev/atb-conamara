@@ -7,6 +7,8 @@
 	+ An account of the grammar of the dialect (the area of Cois Fharraige).
 + de Bhaldraithe, Tomás *Foirsiún Focal as Gaillimh* (1985). 
 	+ Collection of words of the dialect. 
++ Breathnach, Diarmuid and Máire Ní Mhurchú *1882-1992: Beathaisnéis a hAon* (1986).
+	+ An account found here, and in the other volumes of the series, on the writers of Conamara.
 + Ní Dhomhnaill, Cáit *An Cheathrú Rua* (1984). 
 	+ A short acount on the history of Conamara.
 + Ó Máille, T. S. *Liosta Focal as Ros Muc* (1974).
