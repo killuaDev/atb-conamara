@@ -1,9 +1,9 @@
 # Summary
 
-[Introduction]()
-[Pronunciation Symbols]()
-[Spelling]()
-[Some Terms]()
+[Translator's Note](./translators_note.md)
+[Introduction](./introduction.md)
+[Pronunciation Symbols](./pronunciation_symbols.md)
+[Spelling](./spelling)
 
 - [The Dialect](./the_dialect.md)
 - [Pronunciation of Vowels](./pronunciation_of_vowels.md)
