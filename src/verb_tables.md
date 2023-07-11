@@ -98,7 +98,7 @@ A few other verbs in 1B: *dóigh, glaoigh, leáigh, meáigh, reoigh, téigh* ('h
 
 ## Conjugation 2.
 Two classes in this conjugation too:
-2A two syllable verbs ending in /;e/ (in this dialect), e.g. *ceannaigh (ceanna);*
+2A two syllable verbs ending in /ə/ (in this dialect), e.g. *ceannaigh (ceanna);*
 
 2B two syllable verbs ending in *-il, -in* etc., e.g. *oscail.*
 
@@ -147,6 +147,5 @@ The only difference between this class and 2A is that the second syllable of the
 *foghlaim (fólaim), labhair* don't get syncopated *foghlaimíonn, labhairíonn.* (Sometimes the *r* is broadened in *labhair: labharaíonn.*) In *codail* the *d* is elided in the syncopation: *codlaíonn (collaíonn).* *tarraing* gets syncopated in this dialect normally: *tarraingíonn* is said *tairníonn.*
 
 This is a small class. Here are some other verbs in it: *ceangail, cosain (coisin), cuimil, díbir, freagair, imir, inis, iompair, seachain, togair.*
-
 
 
