@@ -24,6 +24,6 @@
 - [Vocabulary](./vocabulary.md)
 
 [Mini-Dictionary](./mini_dictionary.md)
-[Appendix A: Verb tables]()
+[Appendix A: Verb tables](./verb_tables.md)
 [Appendix B: Aran Irish]()
 [References]()
