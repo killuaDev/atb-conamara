@@ -22,7 +22,7 @@ Often the *is* is dropped in classification sentences like *fear maith é, daoin
 Often the /r/ is droped: *go b'é.*
 
 ## 15.6 Present with *nach*
-*nach* /nax/: *nach fíor domm é?*  
+*nach* /nax/: *nach fíor dom é?*  
 *nach* before *é, í,* etc. too: *m'anam nach é.*  
 Sometimes *nach b'é, nach b'iad* etc. is said.
 
