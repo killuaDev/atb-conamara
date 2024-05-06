@@ -1,6 +1,6 @@
 # 9. Pronouns
 ## 9.1 *muid*
-The personal pronouns in this dialect are teh same as the standard except for *muid* in the first person plural in place of *sinn:*
+The personal pronouns in this dialect are the same as the standard except for *muid* in the first person plural in place of *sinn:*
 + *Is as Gaillimh muid.*
 + *Chuala sé muid.*
 + *Muid féin a rinne é.*
